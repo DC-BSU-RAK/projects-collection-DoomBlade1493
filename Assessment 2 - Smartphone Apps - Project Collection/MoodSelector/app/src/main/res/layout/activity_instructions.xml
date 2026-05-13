@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:text="Welcome to the Daily Mood Selector.\n\n1. Tap 'Change Mood' to choose how you feel.\n2. Select a mood from the list.\n3. Press 'Save Mood'.\n4. Your mood will appear on the home screen.\n\nThis app uses SharedPreferences to store your selection." />
+
+</ScrollView>

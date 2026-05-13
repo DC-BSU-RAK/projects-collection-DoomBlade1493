@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Base.Theme.DomainExpansionGenerator" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.DomainExpansionGenerator" parent="Base.Theme.DomainExpansionGenerator" />
+
+    <style name="Theme.DomainExpansionGenerator.Splash" parent="Theme.DomainExpansionGenerator">
+        <item name="android:windowBackground">@drawable/splash_background</item>
+    </style>
+
+</resources>
