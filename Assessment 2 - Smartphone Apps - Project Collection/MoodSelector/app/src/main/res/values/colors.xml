@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-
-    <color name="happy_bg">#FFF59D</color>
-    <color name="neutral_bg">#E0E0E0</color>
-    <color name="stressed_bg">#FFCDD2</color>
-    <color name="tired_bg">#C5CAE9</color>
-
-</resources>
